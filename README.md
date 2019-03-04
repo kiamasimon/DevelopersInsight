@@ -30,3 +30,17 @@ Simon Kiama Irungu
 
 [![Build Status](https://travis-ci.com/rickrickysimpsoms/DevelopersInsight.svg?branch=master)](https://travis-ci.com/rickrickysimpsoms/DevelopersInsight)
 
+###### Login Screen
+![login screen](https://github.com/rickrickysimpsoms/DevelopersInsight/blob/master/static/images/%7B4301024D-68C5-4D57-9AD3-C04394625DEC%7D.png.jpg)
+
+###### Landing page
+![landing page](https://github.com/rickrickysimpsoms/DevelopersInsight/blob/master/static/images/%7BE8EA5359-551E-4EF2-87B9-B41C4BAF394D%7D.png.jpg)
+
+###### Post Details page
+![post details](https://github.com/rickrickysimpsoms/DevelopersInsight/blob/master/static/images/%7B6981C9CF-0957-47A0-8EE6-D2505C2040E8%7D.png.jpg)
+
+###### Unpublished Posts page
+![unpublished posts](https://github.com/rickrickysimpsoms/DevelopersInsight/blob/master/static/images/%7B7DFF65DB-FFF7-4358-9F7C-71B9A5C14B3B%7D.png.jpg)
+
+###### Add/Edit Post page
+![add/edit post](https://github.com/rickrickysimpsoms/DevelopersInsight/blob/master/static/images/%7B7DFF65DB-FFF7-4358-9F7C-71B9A5C14B3B%7D.png.jpg)
