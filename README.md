@@ -1,9 +1,7 @@
 # DevelopersInsight
 ## Advanced Django Blog Sample
 This is a beginer level project, illustrating ther basic of creating a blog and the various parts that it should include
-
 [![Build Status](https://travis-ci.com/rickrickysimpsoms/DevelopersInsight.svg?branch=master)](https://travis-ci.com/rickrickysimpsoms/DevelopersInsight)
-
 ### Getting Started
 This project was implemented in the windows platform
 For this project to function as intended, you must having the following installed on your machine;
@@ -14,12 +12,10 @@ For this project to function as intended, you must having the following installe
       Instructions from::https://docs.djangoproject.com/en/2.1/howto/windows/
     
 #### Prequisites
-
   1) Python has to be accessible globally 
   2) You must have created a virtual environment where the test server is to be run from.
   
 #### Installing
-
 1) Use git to clone the project to your local computer::https://github.com/rickrickysimpsoms/DjangoBlog.git.
 2) Download it directly from the reopsitory.
 3) Start your virtual environment.
@@ -28,7 +24,6 @@ For this project to function as intended, you must having the following installe
     on your browser of choice.
     
 #### Authors
-
 Simon Kiama Irungu
 
 ###### Login Screen
