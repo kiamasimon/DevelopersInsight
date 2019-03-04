@@ -1,6 +1,9 @@
 # DevelopersInsight
 ## Advanced Django Blog Sample
 This is a beginer level project, illustrating ther basic of creating a blog and the various parts that it should include
+
+[![Build Status](https://travis-ci.com/rickrickysimpsoms/DevelopersInsight.svg?branch=master)](https://travis-ci.com/rickrickysimpsoms/DevelopersInsight)
+
 ### Getting Started
 This project was implemented in the windows platform
 For this project to function as intended, you must having the following installed on your machine;
@@ -27,8 +30,6 @@ For this project to function as intended, you must having the following installe
 #### Authors
 
 Simon Kiama Irungu
-
-[![Build Status](https://travis-ci.com/rickrickysimpsoms/DevelopersInsight.svg?branch=master)](https://travis-ci.com/rickrickysimpsoms/DevelopersInsight)
 
 ###### Login Screen
 ![login screen](https://github.com/rickrickysimpsoms/DevelopersInsight/blob/master/static/images/%7B4301024D-68C5-4D57-9AD3-C04394625DEC%7D.png.jpg)
