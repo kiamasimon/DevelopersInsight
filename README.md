@@ -1,4 +1,4 @@
-# DevelopersInsight [![Build Status](https://travis-ci.com/rickrickysimpsoms/DevelopersInsight.svg?branch=master)](https://travis-ci.com/rickrickysimpsoms/DevelopersInsight)
+# Developer's Insight [![Build Status](https://travis-ci.com/rickrickysimpsoms/DevelopersInsight.svg?branch=master)](https://travis-ci.com/rickrickysimpsoms/DevelopersInsight)
 
 ## Advanced Django Blog Sample 
 This is a beginer level project, illustrating ther basic of creating a blog and the various parts that it should include
