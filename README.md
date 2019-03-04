@@ -43,4 +43,4 @@ Simon Kiama Irungu
 ![unpublished posts](https://github.com/rickrickysimpsoms/DevelopersInsight/blob/master/static/images/%7B7DFF65DB-FFF7-4358-9F7C-71B9A5C14B3B%7D.png.jpg)
 
 ###### Add/Edit Post page
-![add/edit post](https://github.com/rickrickysimpsoms/DevelopersInsight/blob/master/static/images/%7B7DFF65DB-FFF7-4358-9F7C-71B9A5C14B3B%7D.png.jpg)
+![add/edit post](https://github.com/rickrickysimpsoms/DevelopersInsight/blob/master/static/images/%7BB8439F92-0D06-4D72-85A0-E2044FD976D8%7D.png.jpg)
