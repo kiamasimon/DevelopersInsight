@@ -23,7 +23,9 @@ For this project to function as intended, you must having the following installe
 4) Navigate to project folder where manage.py is located.
 5) Run the command python manage.py runserver to start the test server and navigate to::http://localhost:8000/
     on your browser of choice.
-    
+##### Demo
+   You can view the demo application from the link below:
+        http://kiamasimon.pythonanywhere.com/
 
 ##### Main Urls::
     path('admin/', admin.site.urls),
